@@ -1,0 +1,55 @@
+INFO:root:2021-04-05 17:15:08.605667
+INFO:root:Executing the "List of Files.1" test case.
+INFO:root:Prepping the test.
+INFO:root:Prep stage has been successfully completed.
+INFO:root:Running the test.
+INFO:root:Run stage has been successfully completed.
+INFO:root:Cleaning up
+INFO:root:Clean up stage has been successfully completed.
+INFO:root:"List of Files.1" test case has been successful.
+
+INFO:root:2021-04-05 17:15:08.612657
+INFO:root:Executing the "Random File.2" test case.
+INFO:root:Prepping the test.
+INFO:root:Prep stage has been successfully completed.
+INFO:root:Running the test.
+INFO:root:Run stage has been successfully completed.
+INFO:root:Cleaning up
+INFO:root:Clean up stage has been successfully completed.
+INFO:root:"Random File.2" test case has been successful.
+
+INFO:root:2021-04-05 17:15:28.645412
+INFO:root:Executing the "List of Files.1" test case.
+INFO:root:Prepping the test.
+INFO:root:Prep stage has been successfully completed.
+INFO:root:Running the test.
+INFO:root:Run stage has been successfully completed.
+INFO:root:Cleaning up
+INFO:root:Clean up stage has been successfully completed.
+INFO:root:"List of Files.1" test case has been successful.
+
+INFO:root:2021-04-05 17:15:28.652406
+INFO:root:Executing the "Random File.2" test case.
+INFO:root:Prepping the test.
+INFO:root:Prep stage has been successfully completed.
+INFO:root:Running the test.
+INFO:root:Run stage has been successfully completed.
+INFO:root:Cleaning up
+INFO:root:Clean up stage has been successfully completed.
+INFO:root:"Random File.2" test case has been successful.
+
+INFO:root:2021-04-05 17:15:37.970152
+INFO:root:Executing the "List of Files.1" test case.
+INFO:root:Prepping the test.
+ERROR:root:Odd Number of Seconds error has occurred during the prep stage.
+
+INFO:root:2021-04-05 17:15:37.970152
+INFO:root:Executing the "Random File.2" test case.
+INFO:root:Prepping the test.
+INFO:root:Prep stage has been successfully completed.
+INFO:root:Running the test.
+INFO:root:Run stage has been successfully completed.
+INFO:root:Cleaning up
+INFO:root:Clean up stage has been successfully completed.
+INFO:root:"Random File.2" test case has been successful.
+
